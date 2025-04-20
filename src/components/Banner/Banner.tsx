@@ -5,7 +5,7 @@ const Banner = () => {
   return (
     <div id="banner" className={S.banner}>
       <p data-splitting="" className={`${S.textOne} split-text hidden-init`}>
-        Viola ✿ Wunmi
+        Viola ✿ Wumi
       </p>
       <p data-splitting="" className={`${S.textTwo} split-text hidden-init`}>
         Vinyl ~ Davyl

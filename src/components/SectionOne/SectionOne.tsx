@@ -34,7 +34,7 @@ const SectionOne: React.FC<SectionOneProps> = ({ scroll, appLoaded, preloaded, w
     <section id="section-one" data-scroll-section>
       <div className={S.section}>
         <h1 data-splitting="" className={`${S.text} split-text hidden-init`}>
-          Viola Wunmi <sup className={S.sup}>&reg;</sup>
+          Viola Wumi <sup className={S.sup}>&reg;</sup>
         </h1>
         <p ref={subTextRef} className={`${S.subText} hidden-init`}>
           Natural Beauty, Fashionable Eco-Friendly Design.

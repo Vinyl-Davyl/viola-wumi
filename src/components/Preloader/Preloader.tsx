@@ -13,7 +13,7 @@ type PreloaderProps = {
 
 const Preloader: React.FC<PreloaderProps> = ({ windowWidth, setPreloaded }) => {
   const wordRef = useRef(null);
-  const letterRefs = useRefArray<HTMLDivElement>(10);
+  const letterRefs = useRefArray<HTMLDivElement>(9);
   const preloaderRef = useRef(null);
   const preloaderContainerRef = useRef(null);
 
@@ -73,13 +73,10 @@ const Preloader: React.FC<PreloaderProps> = ({ windowWidth, setPreloaded }) => {
               <Alphabets dataIndex={7} letterIndex={21} ref={letterRefs[6]} />
             </div>
             <div className={S.letter}>
-              <Alphabets dataIndex={8} letterIndex={14} ref={letterRefs[7]} />
+              <Alphabets dataIndex={8} letterIndex={13} ref={letterRefs[7]} />
             </div>
             <div className={S.letter}>
-              <Alphabets dataIndex={9} letterIndex={13} ref={letterRefs[8]} />
-            </div>
-            <div className={S.letter}>
-              <Alphabets dataIndex={10} letterIndex={9} ref={letterRefs[9]} />
+              <Alphabets dataIndex={9} letterIndex={9} ref={letterRefs[8]} />
             </div>
           </div>
         </div>

@@ -14,7 +14,7 @@ const Nav = React.forwardRef<HTMLElement, NavProps>(({ onClick }, ref) => {
       </div>
       <div className={S.lower}>
         <p className={S.lowerText}>
-          Viola <span className={S.and}>✿</span> Wunmi
+          Viola <span className={S.and}>✿</span> Wumi
         </p>
       </div>
       <div className={S.div} />
