@@ -1,134 +1,134 @@
 export const GalleryData = [
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_1/11.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_1/10.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_1/9.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_1/8.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_1/7.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_1/6.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_1/5.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_1/4.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_1/3.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_1/2.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_1/1.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_2/1.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_2/2.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_2/3.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_2/4.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_2/5.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_2/6.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_2/7.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_2/8.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_2/9.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_2/10.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_2/11.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_3/11.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_3/10.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_3/9.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_3/8.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_3/7.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_3/6.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_3/5.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_3/4.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_3/3.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_3/2.png",
-	},
-	{
-		name: "",
-		link: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1642240246/it/gallery_column_3/1.png",
-	},
+  {
+    name: "",
+    link: "/src/assets/vw5.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw4.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw7.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw14.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw18.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw19.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw21.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw37.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw31.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw32.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw26.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw2.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw35.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw34.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw36.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw44.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw39.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw42.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw43.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw45.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw46.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw47.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw6.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw51.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw52.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw53.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw55.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw58.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw56.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw57.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw54.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw25.jpg",
+  },
+  {
+    name: "",
+    link: "/src/assets/vw49.jpg",
+  },
 ];
