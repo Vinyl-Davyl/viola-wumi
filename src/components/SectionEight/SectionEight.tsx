@@ -38,37 +38,37 @@ const SectionEight: React.FC<SectionEightProps> = ({ windowWidth }) => {
       <div className={S.section}>
         <div className={S.box}>
           <LongLine ref={refs[0]} className={S.line} windowWidth={windowWidth} />
-          <p className={S.title}>Chimela</p>
+          <p className={S.title}>Italy</p>
           <p className={S.text}>
-            Each piece of the Chimela has been designed to accentuate the beauty of the female form, from the intricate
-            point d'esprit embroidery. The simplicity and minimal approach is what
+            Captivating Milan Fashion Week with her distinctive presence, Viola showcased the artistic vision of
+            Domenico Petralia. Her interpretation brought vitality to the collection's central
           </p>
           <img className={S.img} src="/src/assets/vw9.jpg" alt="her" />
         </div>
         <div className={S.box}>
           <LongLine ref={refs[1]} className={S.line} windowWidth={windowWidth} />
-          <p className={S.title}>Turbis</p>
+          <p className={S.title}>Paris</p>
           <p className={S.text}>
-            Designed by luchesse and crafted using luscious fabrics, this Turbis collection is as opulent as it is
-            versatile. Versatile enough to take on any sexy occasion.
+            Walking for Yanina Couture in Paris, Viola embodied the essence of haute couture with elegant poise. Her
+            runway presence elevated the collection to new heights of beauty.
           </p>
           <img className={S.img} src="/src/assets/vw10.jpg" alt="her" />
         </div>
         <div className={S.box}>
           <LongLine ref={refs[2]} className={S.line} windowWidth={windowWidth} />
-          <p className={S.title}>Ardoniss</p>
+          <p className={S.title}>Baltic</p>
           <p className={S.text}>
-            Ardoniss is a fashion collection from luchesse; this piece depicts the creative and innovative quality of
-            modern fashion. Ardoniss collection encompasses the classical styles.
+            Featured in L'Officiel Baltic's editorial spread, Viola demonstrated her versatility in front of Albert
+            Tomico's lens. The artistic vision came alive through her expressions.
           </p>
           <img className={S.img} src="/src/assets/vw3.jpg" alt="her" />
         </div>
         <div className={S.box}>
           <LongLine ref={refs[3]} className={S.line} windowWidth={windowWidth} />
-          <p className={S.title}>Plaid</p>
+          <p className={S.title}>Lagos</p>
           <p className={S.text}>
-            Plaid is a clean, modern, and minimalistic suit style fashion collection from Luchesse. The lines have been
-            refined to create a dressy uniform that can translate day to night.
+            At Lagos Fashion Week, Viola brought Nigerian designs to international attention with her dynamic presence.
+            The cultural fusion created a memorable showcase for all attendees.
           </p>
           <img className={S.img} src="/src/assets/vw16.jpg" alt="her" />
           <LongLine ref={refs[4]} className={S.line} windowWidth={windowWidth} />

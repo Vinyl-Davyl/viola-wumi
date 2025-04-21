@@ -14,11 +14,11 @@ const SectionSeven: React.FC<SectionSevenProps> = ({ windowWidth }) => {
       <div className={S.section}>
         <div className={S.marqueeSection}>
           <Marquee pauseOnHover gradient={false} className={S.marquee} speed={windowWidth > 1024 ? 15 : 80}>
-            <p className={S.marqueeText}>Finesse</p>
-            <p className={S.marqueeText}>Finesse</p>
-            <p className={S.marqueeText}>Finesse</p>
-            <p className={S.marqueeText}>Finesse</p>
-            <p className={S.marqueeText}>Finesse</p>
+            <p className={S.marqueeText}>Essence</p>
+            <p className={S.marqueeText}>Essence</p>
+            <p className={S.marqueeText}>Essence</p>
+            <p className={S.marqueeText}>Essence</p>
+            <p className={S.marqueeText}>Essence</p>
           </Marquee>
         </div>
         <div className={S.main}>
@@ -26,20 +26,20 @@ const SectionSeven: React.FC<SectionSevenProps> = ({ windowWidth }) => {
             <div className={S.left}>
               <div className={S.row}>
                 <Line id={"lineRef"} width="5vh" height="0.33vh" className={S.line1} />
-                <p className={S.largeText}>Casual</p>
+                <p className={S.largeText}>Grace</p>
               </div>
               <div className={S.row2}>
                 <Plus />
               </div>
               <div className={S.row3}>
-                <p className={S.largeText}>Street Style</p>
+                <p className={S.largeText}>High Fashion</p>
                 <Line id={"lineRef"} width="5vh" height="0.33vh" className={S.line2} />
               </div>
             </div>
             <div className={S.right}>
               <p className={S.smallText}>
-                We believe that fashion should not be intimidating, luxury is more than leather and silk, and prices are
-                not always the best criteria to judge a good fashion brand.
+                Viola believes that fashion is an art form, personality shines through authentic expression, and true
+                beauty comes from confidence and the ability to transform with each new creative concept.
               </p>
             </div>
           </div>

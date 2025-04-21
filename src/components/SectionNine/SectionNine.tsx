@@ -14,10 +14,10 @@ const SectionEight: React.FC<SectionEightProps> = ({ windowWidth }) => {
     <section id="section-nine" data-scroll-section>
       <div className={S.section}>
         <div className={S.left}>
-          <p className={S.text}>Check out more pictures of our collections</p>
+          <p className={S.text}>Explore more of Viola's stunning portfolio</p>
           <Link to="/gallery">
             <div className={S.button}>
-              <Button use="section-nine" text="go to gallery" />
+              <Button use="section-nine" text="view gallery" />
             </div>
           </Link>
         </div>
