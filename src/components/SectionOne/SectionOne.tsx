@@ -37,7 +37,7 @@ const SectionOne: React.FC<SectionOneProps> = ({ scroll, appLoaded, preloaded, w
           Viola Wumi <sup className={S.sup}>&reg;</sup>
         </h1>
         <p ref={subTextRef} className={`${S.subText} hidden-init`}>
-          Natural Beauty, Fashionable Eco-Friendly Design.
+          Timeless Elegance, Fashion for Every Season.
         </p>
         <div ref={buttonRef} className={`${S.button} hidden-init`}>
           <Button text="explore" use="section-one-alt" onClick={handleOnClick} />
