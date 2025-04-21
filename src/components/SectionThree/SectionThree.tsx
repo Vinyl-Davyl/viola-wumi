@@ -42,11 +42,11 @@ const SectionThree: React.FC<SectionThreeProps> = ({ scroll }) => {
     <section data-scroll data-scroll-section data-scroll-id="section-three">
       <div className={S.section}>
         <div className={S.textWrapper}>
-          <h2 className={S.title}>Made from the heart, for you</h2>
+          <h2 className={S.title}>Grace and poise on every runway</h2>
           <p className={S.text}>
-            These days, we are all looking for a place where we feel good. Fashion should be an accessory to who you are
-            as well as a reflection of your personality. It is not just what you put on but it is also how you put it
-            on. It’s about the details that make all the difference.
+            In the world of fashion, true elegance speaks volumes. Viola brings a distinct charisma to every shoot and
+            runway she graces. Her unique ability to embody diverse styles while maintaining authenticity has made her a
+            favorite among renowned designers across Paris, Milan, and beyond.
           </p>
         </div>
         <div ref={ref} className={S.imageWrapper}>
