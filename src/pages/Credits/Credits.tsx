@@ -131,14 +131,29 @@ const Credits: React.FC<PageProps> = ({ appLoaded, preloaded, navOnClick, window
           </div>
           <div className={S.box2}>
             <p data-splitting="" className={`${S.boxTitle} split-text hidden-init`}>
-              fonts
+              CONTACT VIOLA
             </p>
             <p data-splitting="" className={`${S.textTypeThree} split-text hidden-init`}>
-              New York
+              Viola <span className={S.green}>✿</span> Wumi
             </p>
-            <p data-splitting="" className={`${S.textTypeThree} split-text hidden-init`}>
-              Neue Haas Grotesk
-            </p>
+            <div>
+              <p data-splitting="" className={`${S.textTypeThree} split-text hidden-init`}>
+                <a className={S.link} target="_blank" href="https://www.instagram.com/viola_wumi/">
+                  Instagram
+                </a>
+                <a className={S.link} target="_blank" href="https://www.tiktok.com/@viola.wumi">
+                  TikTok
+                </a>
+              </p>
+              <p data-splitting="" className={`${S.textTypeThree} split-text hidden-init`}>
+                <a className={S.link} target="_blank" href="https://youtube.com/@violawumi">
+                  YouTube
+                </a>
+                <a className={S.link} target="_blank" href="https://x.com/vi_olarh">
+                  X
+                </a>
+              </p>
+            </div>
           </div>
           <Link className={`${S.animateOpacity} ${S.button}`} to="/">
             <Button use="credits" text="back to home" />

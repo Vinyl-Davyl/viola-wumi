@@ -1,8 +1,9 @@
-import React from "react";
+import React, { useRef } from "react";
 import S from "./SectionTwo.module.scss";
-import { ReactComponent as Signature } from "../../svgs/signature.svg";
 
 const SectionTwo: React.FC = () => {
+  const imageRef = useRef<HTMLImageElement>(null);
+
   return (
     <section id="section-two" data-scroll-section>
       <div className={S.section}>
@@ -15,7 +16,8 @@ const SectionTwo: React.FC = () => {
             from top designers and magazines alike. Viola believes in empowering others through fashion and continues to
             inspire with her work. Join her on this exciting journey in the fashion industry!
           </p>
-          <Signature className={S.signature} />
+          <img alt="" ref={imageRef} className={S.signature} src="/src/assets/sig6.jpg" />
+
           <p className={S.person}>Viola Wumi</p>
         </div>
         <div className={S.imageWrapper}>
