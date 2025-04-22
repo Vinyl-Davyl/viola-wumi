@@ -7,11 +7,11 @@
   background-repeat: no-repeat;
 
   @include media(">mobile") {
-    background-image: url("../../assets/vw4.jpg");
+    background-image: url("https://res.cloudinary.com/dnnkadysr/image/upload/v1745291919/viola-wunmi/epm7dayhd5yqco1l2wy4.jpg");
   }
   @include media("<=mobile") {
     padding: 3rem 1.5rem 0;
-    background-image: url("../../assets/vw1.jpg");
+    background-image: url("https://res.cloudinary.com/dnnkadysr/image/upload/v1745291919/viola-wunmi/dzzzgxhz0stnbkn62c3m.jpg");
   }
 }
 

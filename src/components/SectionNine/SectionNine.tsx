@@ -22,9 +22,21 @@ const SectionEight: React.FC<SectionEightProps> = ({ windowWidth }) => {
           </Link>
         </div>
         <div className={S.right}>
-          <img className={S.image1} src="/src/assets/vw15.jpg" alt="" />
-          <img className={S.image2} src="/src/assets/vw25.jpg" alt="" />
-          <img className={S.image3} src="/src/assets/vw17.jpg" alt="" />
+          <img
+            className={S.image1}
+            src="https://res.cloudinary.com/dnnkadysr/image/upload/v1745291918/viola-wunmi/cjbjpyws7rwpuwxpc79r.jpg"
+            alt=""
+          />
+          <img
+            className={S.image2}
+            src="https://res.cloudinary.com/dnnkadysr/image/upload/v1745291922/viola-wunmi/jclaial3ktjttqr2bcfy.jpg"
+            alt=""
+          />
+          <img
+            className={S.image3}
+            src="https://res.cloudinary.com/dnnkadysr/image/upload/v1745291919/viola-wunmi/sv0tp4vktaxddwpa2zst.jpg"
+            alt=""
+          />
           <p data-scroll className={S.title} data-scroll-direction="horizontal" data-scroll-speed={textScrollSpeed}>
             Viola ✿ Wumi
           </p>

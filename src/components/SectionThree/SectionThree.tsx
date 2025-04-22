@@ -51,7 +51,12 @@ const SectionThree: React.FC<SectionThreeProps> = ({ scroll }) => {
         </div>
         <div ref={ref} className={S.imageWrapper}>
           <div className={S.imageContainer}>
-            <img alt="" ref={imageRef} className={S.image} src="/src/assets/vw13.jpg" />
+            <img
+              alt=""
+              ref={imageRef}
+              className={S.image}
+              src="https://res.cloudinary.com/dnnkadysr/image/upload/v1745291922/viola-wunmi/mvmylvydlgrkjykismgr.jpg"
+            />
           </div>
           <div ref={SVGRef} className={S.svg}>
             <RotatingText width="100%" height="100%" />

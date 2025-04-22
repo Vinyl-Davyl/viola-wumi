@@ -39,7 +39,11 @@ const SectionFive: React.FC<SectionFiveProps> = ({ windowWidth }) => {
           <h2 data-scroll className={S.title1} data-scroll-direction="horizontal" data-scroll-speed={title1ScrollSpeed}>
             High
           </h2>
-          <img className={S.image} src="/src/assets/vw12.jpg" alt="" />
+          <img
+            className={S.image}
+            src="https://res.cloudinary.com/dnnkadysr/image/upload/v1745291921/viola-wunmi/xl3mitn3omaoutxzkvli.jpg"
+            alt=""
+          />
           <h2
             data-scroll
             className={S.title2}

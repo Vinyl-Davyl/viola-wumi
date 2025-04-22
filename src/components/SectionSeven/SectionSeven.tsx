@@ -44,7 +44,15 @@ const SectionSeven: React.FC<SectionSevenProps> = ({ windowWidth }) => {
             </div>
           </div>
           <div className={S.down}>
-            <img className={S.img} src={windowWidth > 1024 ? "/src/assets/vw28.jpg" : "/src/assets/vw28.jpg"} alt="" />
+            <img
+              className={S.img}
+              src={
+                windowWidth > 1024
+                  ? "https://res.cloudinary.com/dnnkadysr/image/upload/v1745291923/viola-wunmi/s3eikmudh2nok65gyewl.jpg"
+                  : "https://res.cloudinary.com/dnnkadysr/image/upload/v1745291923/viola-wunmi/s3eikmudh2nok65gyewl.jpg"
+              }
+              alt=""
+            />
           </div>
         </div>
       </div>

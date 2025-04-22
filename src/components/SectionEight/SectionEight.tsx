@@ -43,7 +43,11 @@ const SectionEight: React.FC<SectionEightProps> = ({ windowWidth }) => {
             Captivating Milan Fashion Week with her distinctive presence, Viola showcased the artistic vision of
             Domenico Petralia. Her interpretation brought vitality to the collection's central
           </p>
-          <img className={S.img} src="/src/assets/vw9.jpg" alt="her" />
+          <img
+            className={S.img}
+            src="https://res.cloudinary.com/dnnkadysr/image/upload/v1745291920/viola-wunmi/mfr7yarzfdwthtipj7fs.jpg"
+            alt="her"
+          />
         </div>
         <div className={S.box}>
           <LongLine ref={refs[1]} className={S.line} windowWidth={windowWidth} />
@@ -52,7 +56,11 @@ const SectionEight: React.FC<SectionEightProps> = ({ windowWidth }) => {
             Walking for Yanina Couture in Paris, Viola embodied the essence of haute couture with elegant poise. Her
             runway presence elevated the collection to new heights of beauty.
           </p>
-          <img className={S.img} src="/src/assets/vw10.jpg" alt="her" />
+          <img
+            className={S.img}
+            src="https://res.cloudinary.com/dnnkadysr/image/upload/v1745291920/viola-wunmi/g9slf18sxy0epw1ephd0.jpg"
+            alt="her"
+          />
         </div>
         <div className={S.box}>
           <LongLine ref={refs[2]} className={S.line} windowWidth={windowWidth} />
@@ -61,7 +69,11 @@ const SectionEight: React.FC<SectionEightProps> = ({ windowWidth }) => {
             Featured in L'Officiel Baltic's editorial spread, Viola demonstrated her versatility in front of Albert
             Tomico's lens. The artistic vision came alive through her expressions.
           </p>
-          <img className={S.img} src="/src/assets/vw3.jpg" alt="her" />
+          <img
+            className={S.img}
+            src="https://res.cloudinary.com/dnnkadysr/image/upload/v1745291918/viola-wunmi/w1wp0ptm4gvuclnvcone.jpg"
+            alt="her"
+          />
         </div>
         <div className={S.box}>
           <LongLine ref={refs[3]} className={S.line} windowWidth={windowWidth} />
@@ -70,7 +82,11 @@ const SectionEight: React.FC<SectionEightProps> = ({ windowWidth }) => {
             At Lagos Fashion Week, Viola brought Nigerian designs to international attention with her dynamic presence.
             The cultural fusion created a memorable showcase for all attendees.
           </p>
-          <img className={S.img} src="/src/assets/vw16.jpg" alt="her" />
+          <img
+            className={S.img}
+            src="https://res.cloudinary.com/dnnkadysr/image/upload/v1745291919/viola-wunmi/yishshwjrbeew4ayae8j.jpg"
+            alt="her"
+          />
           <LongLine ref={refs[4]} className={S.line} windowWidth={windowWidth} />
         </div>
       </div>

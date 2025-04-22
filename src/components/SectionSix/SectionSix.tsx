@@ -6,7 +6,11 @@ const SectionSix: React.FC = () => {
     <section data-scroll-section>
       <div className={S.section}>
         <div data-scroll data-scroll-speed="-10" className={S.videoWrapper}>
-          <img src="/src/assets/vw20.jpg" alt="" className={S.img} />
+          <img
+            src="https://res.cloudinary.com/dnnkadysr/image/upload/v1745291921/viola-wunmi/woz80ds9hpdaottzf5uv.jpg"
+            alt=""
+            className={S.img}
+          />
         </div>
       </div>
     </section>
