@@ -16,11 +16,11 @@ const DECORATION_COUNT = 8;
 const SPIKE_COUNT = 200;
 
 const Preloader: React.FC<PreloaderProps> = ({ windowWidth, setPreloaded }) => {
-  const wordRef = useRef(null);
+  const wordRef = useRef<HTMLDivElement>(null);
   const letterRefs = useRefArray<HTMLDivElement>(9);
-  const preloaderRef = useRef(null);
-  const preloaderContainerRef = useRef(null);
-  const magneticFluidRef = useRef(null);
+  const preloaderRef = useRef<HTMLDivElement>(null);
+  const preloaderContainerRef = useRef<HTMLElement>(null);
+  const magneticFluidRef = useRef<HTMLDivElement>(null);
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const letterGlowRefs = useRefArray<HTMLDivElement>(9);
   const spikeRefs = useRefArray<HTMLDivElement>(SPIKE_COUNT);
