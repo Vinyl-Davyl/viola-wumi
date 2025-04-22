@@ -47,7 +47,7 @@ const Preloader: React.FC<PreloaderProps> = ({ windowWidth, setPreloaded }) => {
     <section ref={preloaderContainerRef} className={S.preloaderContainer}>
       <div ref={preloaderRef} className={S.preloader}>
         <div ref={wordRef} className={S.word}>
-          <div className={S.york}>
+          <div className={S.viola}>
             <div className={S.letter}>
               <Alphabets dataIndex={1} letterIndex={22} ref={letterRefs[0]} />
             </div>
@@ -65,7 +65,7 @@ const Preloader: React.FC<PreloaderProps> = ({ windowWidth, setPreloaded }) => {
             </div>
           </div>
           <p className={S.and}>✿</p>
-          <div className={S.dante}>
+          <div className={S.wumi}>
             <div className={S.letter}>
               <Alphabets dataIndex={6} letterIndex={23} ref={letterRefs[5]} />
             </div>
