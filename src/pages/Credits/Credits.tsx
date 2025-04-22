@@ -8,7 +8,6 @@ import Nav from "../../components/Nav/Nav";
 import React, { useEffect, useRef } from "react";
 import Button from "../../components/Button/Button";
 import { ReactComponent as GitHub } from "../../svgs/github.svg";
-import { ReactComponent as Behance } from "../../svgs/behance.svg";
 import { ReactComponent as Twitter } from "../../svgs/twitter.svg";
 import { ReactComponent as LinkedIn } from "../../svgs/linkedin.svg";
 
