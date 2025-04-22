@@ -26,6 +26,18 @@ A minimalist yet dynamic portfolio that highlights Viola's versatility across di
 - **Performance Optimized**: Fast loading and smooth scrolling
 
 ## Shots
+<img width="1508" alt="Screenshot 2025-04-22 at 3 32 57 AM" src="https://github.com/user-attachments/assets/49ceaa95-d943-4d23-954c-e7e48a9f9ca1" />
+<img width="1508" alt="Screenshot 2025-04-22 at 3 33 27 AM" src="https://github.com/user-attachments/assets/8d599b2a-89c7-4799-a2af-bf489df972fa" />
+<img width="1508" alt="Screenshot 2025-04-22 at 3 33 37 AM" src="https://github.com/user-attachments/assets/f860bbc1-32aa-4b0d-9570-26d9b1abbd1a" />
+<img width="1508" alt="Screenshot 2025-04-22 at 3 33 48 AM" src="https://github.com/user-attachments/assets/1d91bef9-4cbd-4ed4-8d6f-67eb5defba7a" />
+<img width="1508" alt="Screenshot 2025-04-22 at 3 34 01 AM" src="https://github.com/user-attachments/assets/ee3134c3-4518-46fd-9d46-f3b547c615ad" />
+<img width="1508" alt="Screenshot 2025-04-22 at 3 34 17 AM" src="https://github.com/user-attachments/assets/63342680-58d8-4a69-a4f1-34f24a718d16" />
+<img width="1508" alt="Screenshot 2025-04-22 at 3 34 31 AM" src="https://github.com/user-attachments/assets/d2b093d1-cc03-4346-abf5-60053e727e67" />
+<img width="1508" alt="Screenshot 2025-04-22 at 3 34 44 AM" src="https://github.com/user-attachments/assets/5070037b-8800-48f1-81dc-0ac612fcb9b0" />
+<img width="1508" alt="Screenshot 2025-04-22 at 3 34 54 AM" src="https://github.com/user-attachments/assets/791a5d69-4332-434e-8644-dd64638c2119" />
+<img width="1508" alt="Screenshot 2025-04-22 at 3 35 04 AM" src="https://github.com/user-attachments/assets/361f6ca7-458c-4200-a10f-e86d9842f5b8" />
+<img width="1508" alt="Screenshot 2025-04-22 at 3 35 27 AM" src="https://github.com/user-attachments/assets/f760ee7d-7aef-4f2b-a181-3f678d8776c6" />
+<img width="1508" alt="Screenshot 2025-04-22 at 3 35 38 AM" src="https://github.com/user-attachments/assets/27959fe0-4630-4e5f-942d-bb0e9f230bec" />
 
 ## Credits
 
