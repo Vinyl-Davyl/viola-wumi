@@ -117,10 +117,10 @@
 .letter {
   display: flex;
   justify-content: center;
-  overflow-y: hidden;
-  // position: relative;
+  overflow: hidden;
+  position: relative;
   border-radius: 8px;
-  // z-index: 2;
+  z-index: 2;
 
   @include media(">mobile") {
     width: 8.89vh;
