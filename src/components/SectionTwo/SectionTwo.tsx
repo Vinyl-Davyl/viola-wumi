@@ -16,7 +16,12 @@ const SectionTwo: React.FC = () => {
             from top designers and magazines alike. Viola believes in empowering others through fashion and continues to
             inspire with her work. Join her on this exciting journey in the fashion industry!
           </p>
-          <img alt="" ref={imageRef} className={S.signature} src="/src/assets/sig6.jpg" />
+          <img
+            alt=""
+            ref={imageRef}
+            className={S.signature}
+            src="https://res.cloudinary.com/dnnkadysr/image/upload/v1745291918/viola-wunmi/bta2csyrpk49r2qe4dis.jpg"
+          />
 
           <p className={S.person}>Viola Wumi</p>
         </div>
