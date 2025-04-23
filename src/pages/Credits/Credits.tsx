@@ -100,7 +100,7 @@ const Credits: React.FC<PageProps> = ({ appLoaded, preloaded, navOnClick, window
               Okononfua
             </p>
             <div className={S.media}>
-              <a className={`${S.animateOpacity} ${S.icon}`} href="https://x.com/Vinychi">
+              <a className={`${S.animateOpacity} ${S.icon}`} href="https://x.com/Vinylchi">
                 <Twitter />
               </a>
               <a
