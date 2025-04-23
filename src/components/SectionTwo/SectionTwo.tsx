@@ -10,11 +10,12 @@ const SectionTwo: React.FC = () => {
         <div className={S.textWrapper}>
           <h2 className={S.title}>A Journey with Viola Wumi</h2>
           <p className={S.text}>
-            Viola Wumi is a renowned fashion model celebrated for her incredible versatility and elegance on runways
-            across the world. With a passion for sustainable fashion, she collaborates with brands that prioritize
-            eco-friendly practices and innovative designs. Her stunning looks and unique style have garnered attention
-            from top designers and magazines alike. Viola believes in empowering others through fashion and continues to
-            inspire with her work. Join her on this exciting journey in the fashion industry!
+            Viola Wumi is a visionary creative and fashion icon, celebrated for her dynamic presence on global runways
+            and her influential style. With a passion for sustainable fashion, she collaborates with innovative brands
+            to redefine modern elegance. Her bold aesthetic and creative direction have captivated top designers,
+            magazines, and a growing digital audience. Viola empowers others through fashion, blending artistry with
+            advocacy to inspire change. Join her as she shapes the future of style—where modeling meets meaningful
+            influence.
           </p>
           <img
             alt=""
