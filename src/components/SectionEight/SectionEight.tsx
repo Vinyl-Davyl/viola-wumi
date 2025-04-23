@@ -22,8 +22,16 @@ const SectionEight: React.FC<SectionEightProps> = ({ windowWidth }) => {
   useEffect(() => {
     if (!refs) return;
     refs.forEach((ref, i) => {
-      if (linesVisibility[i]) {
-        gsap.to(ref.current?.firstChild, {
+      if (linesVisibility[i] && ref.current?.firstChild) {
+        const lineElement = ref.current.firstChild as SVGLineElement;
+        const length = lineElement.getTotalLength();
+
+        gsap.set(lineElement, {
+          strokeDasharray: length,
+          strokeDashoffset: windowWidth > 1024 ? -length : length,
+        });
+
+        gsap.to(lineElement, {
           delay: windowWidth > 1024 ? 0.5 : 0.2,
           duration: 2.5,
           ease: "expo.out",
@@ -31,7 +39,7 @@ const SectionEight: React.FC<SectionEightProps> = ({ windowWidth }) => {
         });
       }
     });
-  }, [linesVisibility, refs]);
+  }, [linesVisibility, refs, windowWidth]);
 
   return (
     <section id="section-eight" data-scroll-section>

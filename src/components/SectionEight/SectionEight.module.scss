@@ -32,6 +32,7 @@
 
 .line {
   position: absolute;
+  overflow: visible;
 
   @include media(">mobile") {
     left: 0;
@@ -44,14 +45,16 @@
     }
 
     & > line {
-      stroke-dasharray: 81.111vw;
-      stroke-dashoffset: -81.111vw;
+      stroke: #ffffff;
+      stroke-width: 1px;
     }
   }
+
   @include media("<=mobile") {
     top: 0;
     width: 100%;
     height: 1px;
+    left: 0; // Add this
 
     &:last-child {
       bottom: 0;
@@ -59,8 +62,10 @@
     }
 
     & > line {
-      stroke-dasharray: calc(100vw - 3rem);
-      stroke-dashoffset: calc(100vw - 3rem);
+      stroke: #ffffff;
+      stroke-width: 1px;
+      stroke-dasharray: 1000;
+      stroke-dashoffset: 1000;
     }
   }
 }
